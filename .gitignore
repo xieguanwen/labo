@@ -99,5 +99,3 @@ ENV/
 
 .gitignore
 .idea/
-labo/
-manage.py
